@@ -15,7 +15,7 @@ _{This is an intro to HTML project page. Its purpose is to practice inline HTML.
 * _Read site
 * _Close
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+_{Internet and web browser are the only things needed to run this page.}_
 
 ## Known Bugs
 
@@ -27,10 +27,10 @@ _{If there are any issues with the code please feel free to email shawnabduvall@
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_{Used HTML and CSS to make a basic page and resize photos to fit.}_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*{CC0-1.0.}*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2019 **_{Micah Zaayer and Shawna Duvall}_**
